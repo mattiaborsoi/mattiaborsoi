@@ -156,4 +156,6 @@ https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" />
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a simple website on AWS using Terraform](https://medium.com/@mattia.borsoi/build-a-simple-website-on-aws-using-terraform-a1a9f2678e9d?source=rss-79d75d9ade2b------2)
+- [Build your gaming PC on the cloud](https://medium.com/@mattia.borsoi/build-your-gaming-pc-on-the-cloud-cf023fa80ee8?source=rss-79d75d9ade2b------2)
 <!-- BLOG-POST-LIST:END -->
