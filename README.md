@@ -19,7 +19,7 @@ Hi there <a href="https://www.borsoi.co.uk/"><img src="https://media.giphy.com/m
 </p>
 <br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mattiaborsoi&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=mattiaborsoi&show_icons=true&count_private=true&theme=dark" width="350">
 </p>
 <br>
 
