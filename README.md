@@ -88,9 +88,10 @@ https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" />
 
 
 
+<img align="right" src="https://img.shields.io/badge/HW%20Repair-0071CE?logo=ifixit&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Server-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/CSS-E95420?logo=css3&logoColor=white" />
 
 
 - 👨‍💻 &nbsp;**Technical Support Manager**\
