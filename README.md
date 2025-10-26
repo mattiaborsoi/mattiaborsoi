@@ -15,7 +15,7 @@ Hi there <a href="https://www.borsoi.co.uk/"><img src="https://media.giphy.com/m
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://borsoi.co.uk/">
-    <img src="https://img.shields.io/badge/website-borsoi.co.uk-000000?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/borsoi.co.uk-000000?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
 </p>
