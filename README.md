@@ -22,4 +22,6 @@ detection. Next.js · Python · PostgreSQL.
 ## Links
 
 [borsoi.co.uk](https://borsoi.co.uk) ·
-[LinkedIn](https://www.linkedin.com/in/mborsoi/)
+[LinkedIn](https://www.linkedin.com/in/mborsoi/) ·
+[Instagram](https://instagram.com/mattiab) ·
+[Sponsor me](https://github.com/sponsors/mattiaborsoi)
