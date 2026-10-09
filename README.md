@@ -8,6 +8,12 @@ physical computing.
 
 ## Side projects
 
+**[Settl](https://github.com/mattiaborsoi/Personal-Finance)** — self-hosted
+personal finance for couples. Drop in your bank statements and it sorts every
+line, learns your merchants and keeps a running balance of who owes whom. Runs
+on your own machine: no bank logins, no cloud, AI optional. React · FastAPI ·
+PostgreSQL · Docker.
+
 **[flightframe](https://github.com/mattiaborsoi/flightframe)** — a
 battery-powered six-colour e-ink frame that draws the aircraft passing over
 your home. Custom ESP32 firmware pulls rendered posters from a multi-tenant
